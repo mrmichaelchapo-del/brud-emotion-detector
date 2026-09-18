@@ -287,3 +287,21 @@ if (emotionsDiv) {
     setRandomEmotion();
   });
 }
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Brud Emotion Detector</title>
+</head>
+
+<body>
+  <h1>Brud Emotion Detector</h1>
+  <p>The emotional support app for Brud</p>
+
+  <div class="emotions">Loading... ⚛️</div>
+
+  <link rel="stylesheet" href="emotional.css">
+  <script src="emotioncard.js"></script>
+</body>
+</html>
