@@ -6,3 +6,6 @@ yes, react components are often made from `.jsx` files.
 ## ⚛️ What is TSX?
 TSX is literally TypeScript (`.ts`) files with JSX (`.jsx`) in them.
 There is now: `.tsx`
+
+## What do you use?
+We commonly used the GNU GENERAL PUBLIC LICENSE.
