@@ -9,3 +9,5 @@ There is now: `.tsx`
 
 ## What do you use?
 We commonly used the GNU GENERAL PUBLIC LICENSE.
+
+## Go to /community and you will find a page of questions from the community.
