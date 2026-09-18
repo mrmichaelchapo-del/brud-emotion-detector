@@ -141,3 +141,27 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Redirecting...</title>
+</head>
+
+<body>
+  <noscript>
+    If you aren't redirected, go 
+    <a href="https://brudemotiondetector.com">here</a>.
+  </noscript>
+
+  <p style="display:none;">
+    If you aren't redirected, go 
+    <a href="https://brudemotiondetector.com">here</a>.
+  </p>
+
+  <script>
+    window.location.href = "https://mrmichaelchapo-del.github.io/brud-emotion-detector";
+  </script>
+</body>
+</html>
