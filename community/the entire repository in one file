@@ -165,3 +165,39 @@ vite.config.ts.timestamp-*
   </script>
 </body>
 </html>
+
+.feature-container {
+  display: flex;
+  gap: 20px;
+  padding: 40px;
+  justify-content: center;
+}
+
+.feature-card {
+  background: white;
+  padding: 25px;
+  width: 260px;
+  border-radius: 16px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.feature-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 12px 28px rgba(0,0,0,0.12);
+}
+
+.feature-card h3 {
+  margin-bottom: 10px;
+}
+
+.learn-more {
+  display: inline-block;
+  margin-top: 15px;
+  color: #007bff;
+  font-weight: bold;
+  text-decoration: none;
+}
+.learn-more:hover {
+  text-decoration: underline;
+}
